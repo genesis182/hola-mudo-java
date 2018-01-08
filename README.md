@@ -7,15 +7,15 @@
 para **compilar** el programa teclea lo siguiente (Nota: Es necesario 
 tener el "JDK"):
 
----Console
+```Console
 javac HolaMundo.java
---- 
+``` 
 
 y para **Ejecutarlo**:
 
----Console
+```Console
 java HolaMundo
----
+```
 
 # fichero de prueba
 Este fichero es una prueba para ver el funcionamiento de Git & 
